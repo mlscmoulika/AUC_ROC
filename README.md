@@ -24,3 +24,4 @@ This project is to aid those who want to gain visual understanding of AUC and RO
 - Building Multiclass ROC curves
 
 ### License:
+- MIT License added
