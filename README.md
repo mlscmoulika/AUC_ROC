@@ -5,7 +5,10 @@ For given two ROC curves of a two different machine learning models, the one tha
 
 ### What is this project about?
 Interactive web application using python for understanding AUC and ROC.
-In this web application, you can toggle the slidbars to generate two normal distributions for positive and negative samples and check how your model performs given these normal distibution to perform the classification. The model, simply seperates the results at a threshold. 
+In this web application, you can toggle the slidebars to generate two normal distributions for positive and negative samples and check how your model performs given these normal distibution to perform the classification. There are two models that are used to make predictions, they are Gaussian Naive Bayes Classifier and Logistic Regression model. ROC curves for both the models are generated, and one can study the performance of the model to understand which model is better over other.
+
+### Skillset:
+Dash, Plotly, Sklearn, ROC, AUC, Python, Numpy
 
 ### What is the benefit of using this project?
 This project is to aid those who want to gain visual understanding of AUC and ROC.
@@ -16,7 +19,8 @@ This project is to aid those who want to gain visual understanding of AUC and RO
 - open the web browser and go to localhost, 'http://127.0.0.1:8050/' or whichever location is shown when you run the above command.
 - toggle the variables and learn.
 
-### Future Scope of this project:
-- Description about what each of the case's results mean.
-- Adding more models for comparison.
+### Future Scope of this project, open for collaboration:
+- 
+- Building Multiclass ROC curves
+
 ### License:
