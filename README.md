@@ -20,7 +20,7 @@ This project is to aid those who want to gain visual understanding of AUC and RO
 - toggle the variables and learn.
 
 ### Future Scope of this project, open for collaboration:
-- 
+- More strutured notes.
 - Building Multiclass ROC curves
 
 ### License:
