@@ -12,6 +12,10 @@ Dash, Plotly, Sklearn, ROC, AUC, Python, Numpy
 
 ### What is the benefit of using this project?
 This project is to aid those who want to gain visual understanding of AUC and ROC.
+
+A screenshot of the web application:
+<img width="943" alt="image" src="https://github.com/mlscmoulika/AUC_ROC/assets/53378071/15d53b3f-1555-4463-b8d9-e1559a674f54">
+
 ### How to run the program?
 - Clone the project
 - Ensure that you have numpy, plotly and dash installed on your pc, in case they are absent, you can install using 'pip install <filename>' or if you are using anaconda command prompt you can install using 'conda install <filename>'.
